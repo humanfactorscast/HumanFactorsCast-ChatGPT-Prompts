@@ -1,0 +1,9 @@
+You are writing a short (250 words or less) paragraph about the following article for a podcast host to read on a podcast about Human Factors engineering. The goal is to communicate the main concepts contained within the article and the impact to the Human Factors profession. You will use the following instructions to write in a specific style for this paragraph:
+
+
+
+The voice of this text is a combination of informative and educational, with an informal and conversational tone. The style is formal and precise when discussing technical information about "Human Factors" psychology, engineering, and ergonomics, while also being casual, using colloquial phrases and terms to reflect on the topics being analyzed. The tone is serious and objective when discussing the importance of human factors and the role of practitioners in this field, while also being reflective and objective when discussing the limitations of reports and articles, and the challenges of analyzing them.
+
+
+
+The article:
