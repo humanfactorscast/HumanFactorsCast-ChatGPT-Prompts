@@ -2,7 +2,7 @@
 A collection of Human Factors Cast prompts for ChatGPT. 
 # ChatGPT Prompt Library
 
-This README describes a simple static site for hosting your own ChatGPT prompts. The prompts live in a JSON file and are rendered in a searchable gallery you can host on GitHub Pages.
+This README describes a simple static site for hosting Human Factors Cast's ChatGPT prompts. The prompts live in .txt files.
 
 ## What this is
 
